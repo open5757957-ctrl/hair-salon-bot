@@ -1,0 +1,16 @@
+{
+  "name": "hair-salon-bot",
+  "version": "1.0.0",
+  "description": "日隅Ai Hair Salon LINE Bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^9.4.0",
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
